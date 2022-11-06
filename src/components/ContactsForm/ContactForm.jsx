@@ -3,14 +3,14 @@ import React from "react";
 
 import style from './ContactForm.module.css';
 
-const InitialState = {
+const INITIAL_STATE = {
     id: '',
     name: '',
     number: '',
 };
 
 class ContactForm extends React.Component {
-  state = { ...InitialState };
+  state = { ...INITIAL_STATE };
   
   id = nanoid();
 
