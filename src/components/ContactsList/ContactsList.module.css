@@ -30,5 +30,5 @@
 .contactBtn:hover {
     background-color: black;
     color: azure;
-    box-shadow: 5px 5px 5px rgb(85, 84, 84);
+    box-shadow: 15px 5px 5px rgb(85, 84, 84);
 }
