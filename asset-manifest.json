@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/endercom502/goit-react-hw-02-phonebook.git/static/css/main.7acaea2f.css",
-    "main.js": "/endercom502/goit-react-hw-02-phonebook.git/static/js/main.07d3183d.js",
+    "main.css": "/endercom502/goit-react-hw-02-phonebook.git/static/css/main.fc7f3d07.css",
+    "main.js": "/endercom502/goit-react-hw-02-phonebook.git/static/js/main.7ff32fae.js",
     "index.html": "/endercom502/goit-react-hw-02-phonebook.git/index.html",
-    "main.7acaea2f.css.map": "/endercom502/goit-react-hw-02-phonebook.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/endercom502/goit-react-hw-02-phonebook.git/static/js/main.07d3183d.js.map"
+    "main.fc7f3d07.css.map": "/endercom502/goit-react-hw-02-phonebook.git/static/css/main.fc7f3d07.css.map",
+    "main.7ff32fae.js.map": "/endercom502/goit-react-hw-02-phonebook.git/static/js/main.7ff32fae.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.fc7f3d07.css",
+    "static/js/main.7ff32fae.js"
   ]
 }
